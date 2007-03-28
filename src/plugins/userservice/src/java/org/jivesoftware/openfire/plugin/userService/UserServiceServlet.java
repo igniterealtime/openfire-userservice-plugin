@@ -9,13 +9,13 @@
  * a copy of which is included in this distribution.
  */
 
-package org.jivesoftware.wildfire.plugin.userService;
+package org.jivesoftware.openfire.plugin.userService;
 
-import org.jivesoftware.wildfire.XMPPServer;
-import org.jivesoftware.wildfire.user.UserNotFoundException;
-import org.jivesoftware.wildfire.user.UserAlreadyExistsException;
+import org.jivesoftware.openfire.XMPPServer;
+import org.jivesoftware.openfire.user.UserNotFoundException;
+import org.jivesoftware.openfire.user.UserAlreadyExistsException;
 import org.jivesoftware.util.Log;
-import org.jivesoftware.wildfire.plugin.UserServicePlugin;
+import org.jivesoftware.openfire.plugin.UserServicePlugin;
 import org.jivesoftware.admin.AuthCheckFilter;
 
 
