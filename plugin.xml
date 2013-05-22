@@ -3,11 +3,11 @@
 <plugin>
     <class>org.jivesoftware.openfire.plugin.UserServicePlugin</class>
     <name>User Service</name>
-    <description>(Deprecated) Please use the REST API Plugin. Allows administration of users via HTTP requests.</description>
-    <author>Roman Soldatow, Justin Hunt</author>
-    <version>${project.version}</version>
-    <date>10/12/2015</date>
-    <minServerVersion>4.0.0</minServerVersion>
+    <description>Allows administration of users via HTTP requests.</description>
+    <author>Justin Hunt</author>
+    <version>1.3.3</version>
+    <date>05/22/2013</date>
+    <minServerVersion>3.5.1</minServerVersion>
     
     <adminconsole>		
         <tab id="tab-server">
