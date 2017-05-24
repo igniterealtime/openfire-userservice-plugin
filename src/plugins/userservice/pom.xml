@@ -11,7 +11,7 @@
     <name>UserService Plugin</name>
 
     <build>
-        <sourceDirectory>../../src/plugins/userservice/src/java</sourceDirectory>
+        <sourceDirectory>src/java</sourceDirectory>
         <plugins>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
